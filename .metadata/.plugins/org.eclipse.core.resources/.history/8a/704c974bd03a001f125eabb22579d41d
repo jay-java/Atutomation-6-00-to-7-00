@@ -1,0 +1,22 @@
+package core;
+
+//1.Primitive -> byte,short,int,long ->NUMERIC only whole number(1,2)
+//				 float,double -> numeric with decimal (1,2,3.14)
+//				 char -> for single character -> 'a'
+//				 boolean -> true/false
+//2.non-primitive-> array,string,class
+public class P002_DataType {
+	public static void main(String[] args) {
+		byte b = 123; //1
+		System.out.println(b);
+		short s = 12; //2
+		System.out.println(s);
+		int i = 12; //4
+		System.out.println(i);
+		long q = 12; //8
+		System.out.println(q);
+		float f = 3.14f;
+		System.out.println(f);
+		
+	}
+}
