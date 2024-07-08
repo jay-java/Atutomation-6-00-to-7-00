@@ -1,0 +1,13 @@
+package core;
+class Call{
+	public void data() {
+		System.out.println("");
+	}
+}
+public class P005_UserINput {
+	public static void main(String[] args) {
+		System.out.println("main class");
+//		int i,j;
+//		System.out.println(i + j);
+	}
+}

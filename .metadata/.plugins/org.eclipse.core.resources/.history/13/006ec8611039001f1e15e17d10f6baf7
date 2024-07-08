@@ -1,8 +1,0 @@
-package core;
-//1.Primitive -> 
-//2.non-primitive-> 
-public class P002_DataType {
-	public static void main(String[] args) {
-		
-	}
-}
