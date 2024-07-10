@@ -1,8 +1,0 @@
-package core;
-
-public class P005_UserINput {
-	public static void main(String[] args) {
-		int i,j;
-//		System.out.println(i + j);
-	}
-}
