@@ -1,0 +1,13 @@
+package core;
+
+public class P010_String {
+	public static void main(String[] args) {
+		char[] c = {'J','A','V','A'};
+		System.out.println(c);
+		String name = "JAVA is widely used for web development and also for mobile application development.";
+		System.out.println(name);
+		System.out.println(name.length());
+		System.out.println(name.contains(" used f"));
+		System.out.println(name.startsWith("java"));
+	}
+}
