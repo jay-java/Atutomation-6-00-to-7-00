@@ -8,14 +8,18 @@ import java.util.Scanner;
 //with return type with parameter/argument
 //(paranthases)
 class FunctionCall{
+	
 	public void one() {
 		System.out.println("one function");
+	}
+	public void getName(String name) {
+		System.out.println("name : "+name);
 	}
 	public void two(int id,String name) {
 		System.out.println("two function : "+id+" name : "+name);
 	}
-	public double getValue() {
-		return 345.14;
+	public int getValue() {
+		return 345;
 	}
 	public int getSquare(int num) {
 		return num*num;

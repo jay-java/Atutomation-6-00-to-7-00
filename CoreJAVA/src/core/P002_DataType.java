@@ -7,10 +7,10 @@ package core;
 //2.non-primitive-> array,string,class
 public class P002_DataType {
 	public static void main(String[] args) {
-		byte b = 123; //1
+		byte b = 12; //1
 		System.out.println(b);
 		System.out.println("value of b = "+b);
-		short s = 12; //2
+		short s = 32767; //2
 		System.out.println(s);
 		System.out.println("value of s = "+s);
 		int i = 12; //4
@@ -22,7 +22,7 @@ public class P002_DataType {
 		System.out.println(f);
 		double d = 3.145687979732;//8
 		System.out.println(d);
-		char c = 'q';
+		char c = 'l';
 		System.out.println(c);
 		boolean flag = true;
 		System.out.println(flag);
