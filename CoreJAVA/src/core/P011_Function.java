@@ -18,8 +18,8 @@ class FunctionCall{
 	public void two(int id,String name) {
 		System.out.println("two function : "+id+" name : "+name);
 	}
-	public int getValue() {
-		return 345;
+	public double getValue() {
+		return 345.3534;
 	}
 	public int getSquare(int num) {
 		return num*num;

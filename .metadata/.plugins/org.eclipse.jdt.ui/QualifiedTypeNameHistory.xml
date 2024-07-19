@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="core.FunctionCall"/>
+    <fullyQualifiedTypeName name="core.Data"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="core.Student"/>
+    <fullyQualifiedTypeName name="core.Person"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="core.Bike"/>
+    <fullyQualifiedTypeName name="core.car"/>
 </qualifiedTypeNameHistroy>

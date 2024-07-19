@@ -1,9 +1,0 @@
-package core;
-class FunctionCall{
-	
-}
-public class P011_Function {
-	public static void main(String[] args) {
-		System.out.println("main function");
-	}
-}
