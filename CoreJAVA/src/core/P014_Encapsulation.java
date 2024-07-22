@@ -52,7 +52,6 @@ class Person{
 		this.address = address;
 		this.dateTime = dateTime;
 	}
-	@Override
 	public String toString() {
 		return "Person [id=" + id + ", name=" + name + ", contact=" + contact + ", address=" + address + ", dateTime="
 				+ dateTime + "]";
