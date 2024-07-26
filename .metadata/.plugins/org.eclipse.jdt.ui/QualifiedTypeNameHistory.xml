@@ -8,4 +8,11 @@
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="core.Bike"/>
     <fullyQualifiedTypeName name="core.car"/>
+    <fullyQualifiedTypeName name="core.Overload"/>
+    <fullyQualifiedTypeName name="core.Calling"/>
+    <fullyQualifiedTypeName name="core.HR"/>
+    <fullyQualifiedTypeName name="core.Marketing"/>
+    <fullyQualifiedTypeName name="core.Developers"/>
+    <fullyQualifiedTypeName name="core.Accounting"/>
+    <fullyQualifiedTypeName name="core.FinalCall"/>
 </qualifiedTypeNameHistroy>
