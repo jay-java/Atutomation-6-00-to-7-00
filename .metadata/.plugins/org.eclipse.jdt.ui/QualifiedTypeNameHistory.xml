@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="core.Developers"/>
     <fullyQualifiedTypeName name="core.Accounting"/>
     <fullyQualifiedTypeName name="core.FinalCall"/>
-    <fullyQualifiedTypeName name="core.InterCall"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="core.Divide"/>
@@ -25,4 +24,16 @@
     <fullyQualifiedTypeName name="core.ThreadByRunnable"/>
     <fullyQualifiedTypeName name="java.sql.Time"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="core.InterCall"/>
+    <fullyQualifiedTypeName name="core.Laptop"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 </qualifiedTypeNameHistroy>
