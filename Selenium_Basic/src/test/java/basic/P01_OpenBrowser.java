@@ -16,12 +16,11 @@ public class P01_OpenBrowser {
 //		driver.manage().window().maximize();
 //		driver.get(url);
 		
-		//2.Edgetg Driver
+		//2.Edge Driver
 //		System.setProperty("webdriver.edge.driver", "C:\\Users\\jay-pc\\Downloads\\edgedriver_win64 (2)\\msedgedriver.exe");
 //		WebDriver driver = new EdgeDriver();
 //		driver.manage().window().maximize();
 //		driver.get(url);
-		
 		
 		//3.Firefox
 		System.setProperty("webdriver.gecko.driver", "C:\\Users\\jay-pc\\Downloads\\geckodriver-v0.34.0-win64\\geckodriver.exe");
@@ -30,7 +29,5 @@ public class P01_OpenBrowser {
 		driver.get(url);
 		driver.findElement(By.id("email")).sendKeys("selenium@gmail.com");
 		driver.findElement(By.id("pass")).sendKeys("selenium@123");
-		
-		
 	}
 }
