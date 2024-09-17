@@ -3,11 +3,11 @@ package insta;
 import org.testng.annotations.Test;
 
 public class Reels {
-	@Test
-	public void create() {
+	@Test(groups = "createReel")
+	public void createReel() {
 		System.out.println("create reeel");
 	}
-	@Test
+	@Test(groups = "createReel")
 	public void remove() {
 		System.out.println("remove");
 	}

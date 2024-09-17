@@ -3,8 +3,8 @@ package insta;
 import org.testng.annotations.Test;
 
 public class Story {
-	@Test
-	public void create() {
+	@Test(groups = "checkStory")
+	public void createStory() {
 		System.out.println("create reeel");
 	}
 	@Test

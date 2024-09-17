@@ -8,7 +8,7 @@ public class User {
 		System.out.println("create account");
 	}
 
-	@Test
+	@Test(groups = {"checkStory","createReel"})
 	public void login() {
 		System.out.println("login");
 	}

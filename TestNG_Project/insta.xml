@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test thread-count="5" name="Test">
+  <test thread-count="5" name="Test1">
     <classes>
       <class name="insta.Followers"/>
       <class name="insta.User"/>
       <class name="insta.Reels"/>
+      <class name="insta.Story"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Test2">
+    <classes>
+      <class name="insta.Followers"/>
+      <class name="insta.User"/>
       <class name="insta.Story"/>
     </classes>
   </test> <!-- Test -->

@@ -6,9 +6,7 @@
       <class name="basic.P003_DependencyTest">
         <methods>
           <include name="createAccount"/>
-          <include name="logout"/>
           <include name="login"/>
-          <include name="profile"/>
         </methods>
       </class> <!-- basic.P003_DependencyTest -->
     </classes>

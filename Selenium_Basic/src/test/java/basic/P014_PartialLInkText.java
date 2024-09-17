@@ -14,10 +14,11 @@ public class P014_PartialLInkText {
 		WebDriver driver = DriverConnection.getDriver(url);
 		
 		List<WebElement> links = driver.findElements(By.partialLinkText("Create"));
+		for(WebElement e:links) {
+			System.out.println(e.getText());
+			
+		}
 		links.get(2).click();
-//		for(WebElement e:links) {
-//			System.out.println(e.getText());
-//			
-//		}
+		driver.navigate().back();
 	}
 }
