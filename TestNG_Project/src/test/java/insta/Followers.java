@@ -3,6 +3,11 @@ package insta;
 import org.testng.annotations.Test;
 
 public class Followers {
+	@Test(groups = "checkStory")
+	public void showAllFollowers() {
+		System.out.println("show all followers");
+	}
+	
 	@Test
 	public void sendRequest() {
 		System.out.println("send request");
